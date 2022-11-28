@@ -1,0 +1,19 @@
+{
+  "name": "net-salary-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aminahagi/code-challenge.git"
+  },
+  "author": "Amina Hagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminahagi/code-challenge/issues"
+  },
+  "homepage": "https://github.com/aminahagi/code-challenge#readme"
+}
